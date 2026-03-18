@@ -1,0 +1,11 @@
+package scope;
+
+public class Scope2 {
+    static void main() {
+        int m = 10;
+        for (int i = 0; i < 2; i++) { //for문 내
+            System.out.println("for m = " + m); //블록 내부에서 외부는 접근 가능
+            System.out.println("for i = " + i);
+        } //i 생존 종료
+    }
+}
