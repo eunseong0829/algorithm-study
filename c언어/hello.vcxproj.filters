@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="FileName.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="unit4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="unit3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="unit5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="unit6.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="unit7.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="unit8.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="unit9.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="unit10.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="unit11.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="unit12.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="unit13.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="unit14.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="unit15.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="unit16.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="unit17.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="unit18.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="unit19.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="unit20.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="unit21.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="unit22.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="unit23.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="unit24.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="unit25.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="unit26.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="unit27.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="unit28.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="unit29.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="unit30.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="unit31.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="unit32.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="unit33.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="unit34.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="unit35.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="unit36.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="unit37.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="unit38.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="unit39.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="unit40.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="unit41.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
